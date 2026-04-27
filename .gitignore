@@ -1,0 +1,91 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# =========================
+
+# Virtual Environments
+
+# =========================
+
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# System Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# Logs & Temp
+
+# =========================
+
+*.log
+*.tmp
+*.bak
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+
+# =========================
+
+# Streamlit
+
+# =========================
+
+.streamlit/
+
+# =========================
+
+# Optional (USE CAREFULLY)
+
+# =========================
+
+# Ignore large datasets if needed
+
+# data/*.csv
+
+# Ignore model files ONLY if you DON'T need them for deployment
+
+# ⚠️ KEEP COMMENTED for your project
+
+# model/*.pkl
+
+*.pkl
+model/
